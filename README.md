@@ -1,2 +1,2 @@
 # billing
-Billing project with Java
+Billing project
