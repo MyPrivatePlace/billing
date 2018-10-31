@@ -1,3 +1,3 @@
 # billing
 Billing project
-Using Java
+Using Python
